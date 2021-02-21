@@ -1,6 +1,5 @@
 package com.time.tracker.web;
 
-import com.time.tracker.domain.Project;
 import com.time.tracker.service.ProjectService;
 
 import org.springframework.beans.factory.annotation.Autowired;

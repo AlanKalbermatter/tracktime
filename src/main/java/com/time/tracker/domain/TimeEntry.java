@@ -28,8 +28,8 @@ public class TimeEntry implements Serializable {
     @JoinColumn (name = "project_id") 
     private Project project;
     
-    @ManyToOne 
+    /*@ManyToOne 
     @JoinColumn (name = "usuario_id") 
-    private User user;
+    private User user;*/
     
 }

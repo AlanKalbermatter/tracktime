@@ -1,11 +1,13 @@
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/dao/TimeEntryDao.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/service/ProjectServiceImpl.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/dao/ProjectDao.java
+/home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/web/WebConfig.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/service/ProjectService.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/service/CustomerServiceImpl.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/domain/Project.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/service/CustomerService.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/TrackerApplication.java
+/home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/web/StartController.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/service/TimeEntryService.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/service/TimeEntryServiceImpl.java
 /home/kalber/Workspace/Spring/tracker/src/main/java/com/time/tracker/web/ProjectController.java
